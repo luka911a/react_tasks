@@ -1,0 +1,76 @@
+{
+  "trips": [
+    {
+      "cityFrom": "Воронеж",
+      "cityTo": "Усмань",
+      "dateTimeFrom": 1496898480,
+      "dateTimeTo": 1496904420,
+      "price": 300,
+      "latitude": 51.69270,
+      "longitude": 39.183530
+    },
+    {
+      "cityFrom": "Воронеж",
+      "cityTo": "Рамонь",
+      "dateTimeFrom": 1496909700,
+      "dateTimeTo": 1496915820,
+      "price": 300,
+      "latitude": 51.69270,
+      "longitude": 39.183530
+    },
+    {
+      "cityFrom": "Воронеж",
+      "cityTo": "Грязи",
+      "dateTimeFrom": 1496911800,
+      "dateTimeTo": 1496920380,
+      "price": 400,
+      "latitude": 51.69270,
+      "longitude": 39.183530
+    },
+    {
+      "cityFrom": "Воронеж",
+      "cityTo": "Мичюринск",
+      "dateTimeFrom": 1496921880,
+      "dateTimeTo": 1496934480,
+      "price": 500,
+      "latitude": 51.69270,
+      "longitude": 39.183530
+    },
+    {
+      "cityFrom": "Воронеж",
+      "cityTo": "Москва",
+      "dateTimeFrom": 1496925000,
+      "dateTimeTo": 1496965800,
+      "price": 1000,
+      "latitude": 51.69270,
+      "longitude": 39.183530
+    },
+    {
+      "cityFrom": "Воронеж",
+      "cityTo": "Санкт-Петерберг",
+      "dateTimeFrom": 1496922780,
+      "dateTimeTo": 1497009180,
+      "price": 1400,
+      "latitude": 51.69270,
+      "longitude": 39.183530
+    },
+    {
+      "cityFrom": "Воронеж",
+      "cityTo": "Липецк",
+      "dateTimeFrom": 1496936400,
+      "dateTimeTo": 1496947200,
+      "price": 400,
+      "latitude": 51.69270,
+      "longitude": 39.183530
+    },
+    {
+      "cityFrom": "Воронеж",
+      "cityTo": "Рязань",
+      "dateTimeFrom": 1496941800,
+      "dateTimeTo": 1496974200,
+      "price": 900,
+      "latitude": 51.69270,
+      "longitude": 39.183530
+    }
+  ]
+}
